@@ -4,12 +4,4 @@
   Contact the Ruby on Rails Tutorial about the sample app at the
   <a href="http://www.railstutorial.org/#contact">contact page</a>.
 </p>
-<form>
-Write your emila to get extra information about us<br>
-Email:
-<input type="text" name="email">
-<input type="submit" value="submit">
-</form>
-<p>
-<a href="http://nasrin-sampleapp.herokuapp.com">Home</a>|<a href="/static_pages/about">About</a>|<a href="/static_pages/help">Help</a>
-</p>
+
